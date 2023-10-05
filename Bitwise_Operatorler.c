@@ -108,7 +108,7 @@ int main(int argc, char *argv[]) {
     
     
      /*
-    5) <<(sola kaydirma) Operatoru: 2 lik tabandaki sayiyi belirtilen kadar sola kaydirir.Kaydirildiktan sonra 2^0 in sagindakiler hesapa katilmaz.
+    5) <<(sola kaydirma) Operatoru: 2 lik tabandaki sayiyi belirtilen kadar sola kaydirir . Kaydirildiktan sonra 2^0 in sagindakiler hesapa katilmaz.
        
 	   
 	               2^8 2^7 2^6 2^5 2^4 2^3 2^2  2^1   2^0
